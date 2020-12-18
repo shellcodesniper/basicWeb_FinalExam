@@ -16,7 +16,9 @@
   height: inherit;
   position: absolute;
   background: #999999;
-  color: yellow;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
   opacity: 1;
 }
 
